@@ -3,7 +3,24 @@
 reference :
 **[Deep Learning Specialization on Coursera](https://github.com/Kulbear/deep-learning-coursera).**
    
+      
 
+## Neural Networks and Deep Learning
+신경망과 딥러닝
+> 01_Logistic Regression with a Neural Network mindset :  로지스틱 회귀   
+> 02_Planar data classification with one hidden layer : 1개의 hdden layer 구현   
+> 03_Building your Deep Neural Network - Step by Step : 구현 단계 확인하기   
+> 04_Deep Neural Network - Application : 최종 two layer 구현(re)   
+   
+   
+## Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
+딥뉴럴신경망 개선 : 하이퍼파라미터 튜닝, 정규화 및 최적화
+> 01_    
+> 02_   
+> 03_    
+> 04_   
+
+---
 <details>
 <summary> Programming Assignments </summary>
 
